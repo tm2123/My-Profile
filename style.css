@@ -1,0 +1,26 @@
+body{
+    background:red;
+}
+h1,h2{
+    color:white;
+}
+.container{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/2/26/Andrew_Classroom_De_La_Salle_University.jpeg)
+   }
+.container h2{
+    color:blue;
+    text-align:center;
+    padding:200px 0px;
+}
+#my-nav{
+    background :white;
+}
+#my-nav li{
+    color:green;
+    display:inline-block;
+    padding:10px 20px;
+}
+#my-nav li:hover{
+    background-color:blue;
+    
+}
